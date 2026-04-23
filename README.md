@@ -1,3 +1,3 @@
 # Mimi Notes APP
 
-## Tech Stack:
+## Tech Stack
